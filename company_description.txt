@@ -12,6 +12,8 @@ Revenue: 5 million
 
 Transation: Sell in stores and also have a delivery system that will get 
 groceries to customers home when they order online or over the phone.
+The software is needed to help customers order thier groceries over the app and have all the groceries available to select 
+from. The app will display the cost of the groveries and also how much it will cost them to be delivered to thier location. 
 
 
 The clients are the people in need of groceries and mostly need it to be delivered to their house.
