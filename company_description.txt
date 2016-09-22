@@ -1,21 +1,46 @@
 company name: Fast N Easy Grocery
 
-number of locations: 20
+number of locations: 20 - the stores will be located in the NYC area which will cover the 5 boroughs, so there will be 
+4 stores in each area which lets us cover most of the areas that we can deliver from.
 
-number of Employees: 200
+
+number of Employees: 200  - there will be 4 delivery workers in each location, 3 cashiers for people who decide to go to the store,
+2 workers that clean and perpare the groceries and 1 manager.
 
 What do they sell or
 how do they generate revenue? : Groceries
 
 
-Revenue: 5 million
+Revenue: 6 million
+
+Each store:
+
+Cashiers salary: 20k
+Workers: 20k
+delivery emlpoyees: 30k
+Manager: 45k
+
+175k salaries + 125k profit = 300k revenue each store.
+
+combined overall revenue 6 million.
+
+
 
 Transation: Sell in stores and also have a delivery system that will get 
 groceries to customers home when they order online or over the phone.
 The software is needed to help customers order thier groceries over the app and have all the groceries available to select 
 from. The app will display the cost of the groveries and also how much it will cost them to be delivered to thier location. 
 
+Based on each store one delivery worker will deliver about 50 deliveries, so about 200 deliveries per day so the transactions
+will be 200 per day each store.
+
+What data archiving and throughput requirements characterize your company?
+	- The company will take about 200 orders everyday per store from the app and that will require a lot of
+	data to be sent to us and data to store the orders. Every  customer will have thier own account in the app 
+	which they can see thier order history. We'll need a fast system so that it can processes all the orders
+	coming in.
+
 
 The clients are the people in need of groceries and mostly need it to be delivered to their house.
 
-The suppliers are different companies that provide different kind of groceries.
+The suppliers are different companies that provide different kind of groceries. For example, Pepsi would deliver soda.
