@@ -1,0 +1,19 @@
+19. The problems that would be solved by this system are:
+
+	1. Save the customers from taking the trip to the grocery store.
+	2. Groceries are not tracked of how many left on stock and how many needed. 
+	3. Customers can't save the history of thier purchases.
+	4. Company need more revenue to open more stores.
+	5. Scheduling deliveries.
+
+
+
+20. 
+	1. Customers will be able to use the app to get thier groceries in time.
+	2. The app system will be able to keep track of the items left on stock and keep count of how many are requested.
+	3. There will be memory provided for each account to save the history of the customers purchases.
+	4. This app system will attract more customers who don't have time to get to grocery store 
+	   and this will enable th company to generate more revenue. 
+	5. This systems enables the customer to schedule when the delivery will be shipped to thier house.
+	   for example, if customer is out of town and coming back in few days, he/she can schedule the groceries 
+	   to arrive in time they come back. 
