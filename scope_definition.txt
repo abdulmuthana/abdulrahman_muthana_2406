@@ -1,0 +1,36 @@
+
+14. The information system that is being proposed to be designed is an app that will allow the customers to select 
+the groceries that they need and pay for them to get them delivered to thier address.Also, the deliveries can be 
+scheduled to a certain day.
+
+
+
+
+15. The company needs it because it will be the way customers get thier groceries without going to the store.
+
+
+
+16. In the system there will be features such as selecting the items, checking out the items, paying for the 
+items and scheduling the time to be delivered. Each feature will take about a week to be completed. There are four
+features, which means that there will be a week each to be implemented. So overall it will take about a month to 
+design, implement, and install the system. 
+
+
+
+17. There will be three people that will make the system. The designer, a person to implement it and a person to 
+install the system. Each person will be paid about 90 dollars an hour. They will work about 6 hours a day, 5 days a
+week. 
+
+So, 90 * 6 = 540 a day 
+540 * 5 = 2700 a week
+2700 * 4 = 10,800 for the whole process for each emlpoyee
+
+meaning that the total cost of the system will be (10,800 * 3) = $32,400.
+
+
+
+
+18. Besides the 3 employees that created the system. There will be an adminstrator, a person that will make sure
+the system is working probably around the hour and an engineer to improve the system and make it easier for the customer 
+to use. So, the total of people that will carry out everything is 6 people.
+
