@@ -1,0 +1,21 @@
+
+
+21)     1. Place the order for client.
+	2. Store order in the account for future discounts and history of orders.
+	3. Calculate total due for the groceries and give payment method.
+
+22)	1. Recieve the total number of orders for each product.
+	2. Show time and date of the order and when to be delivered.
+	3. Show the frequency of the orders and if they increase or decrease each time.
+
+23)	1. Show the amount of requests sent per second.
+	2. Show the time most orders are requested and least time its requested.
+	3. Require user name and password to modify the system
+	
+24)	1. Record the sales revenue to show how much the company is earning.
+	2. Show which products sell the most and which sell the least. This will enable the store to determine which 
+	   to keep and which to take out.
+	3. Show customers feedback on what works and what needs improvement in the system.
+
+	
+	
