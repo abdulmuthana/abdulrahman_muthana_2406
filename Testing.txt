@@ -1,0 +1,34 @@
+36. 
+
+	1. Stress testing: this would overload the system and see what happens. This usually allows the developer
+	   to see what the system can or can not handle.
+
+	2. Usability Testing: this method will tests the system on the users of it. This will show how the customers
+	   use the system and help change or make the system more user friendly. 
+
+	3. Secuirty testing: making sure the system is secure and the customer information is protected. This includes
+	   when someone tries to modify the system, the system must protect it with a username and password. 
+
+	4. Setting up a test that each functional requirement will fail, then modify it to make the code that 
+	   works for the requirements. 
+
+	5. Regression testing, using regression testing for each functional requirement to make sure that even
+	   after it has been changed or updated it doesn't have any new faults or bugs and that it works 
+	   the way it suppose to work. 
+
+	6. We can use compatibility testing to make sure the system or functional requirements works fine with 
+	   databases or even different types of phones that app can be used on. This will determine if the 
+	   functional requirements work. 
+
+	7. Domain Testing will make sure the system accepts valid input from the users. 
+
+	8. GUI software testing will be very helpful because this will test each requirement, liking when
+	   clicking place order, this test will make sure that it does that. This makes sure the user interface
+	   is working properly.
+
+	9. Volume testing will be needed in this system to make sure that when we save the order history and files
+	   overload and more customers come in, the system will be able to handle it and not crash. 
+
+	10. Stability test can be used to determine if the system crashes. For example, when there are many customers 
+	    ordering grocery at the same time, will the application crash or work fine.
+	
