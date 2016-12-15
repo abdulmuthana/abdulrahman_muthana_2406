@@ -1,0 +1,8 @@
+37. 
+	The system is a delivery system that sets up deliveries of groceries to ones home without them having to 
+	go to the grocery store. The system also manages other functions like revenue and deliveries from suppliers.
+	The way the system works is that first you sign up for an account, or you can use it as a guest(but no 
+	information will be saved). You select the groceries you want and then place your order. If you have an 
+	account, the order will be saved in the account, if not you just wait for your order to arrive. Also, 
+	we can use the system to order products from the suppliers. Other fucntions the system have is calculating
+	the revenue, getting customer feedback and functions that would make grocery shopping much faster and easier. 
